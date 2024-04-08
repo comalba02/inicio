@@ -1,0 +1,31 @@
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #25fb49;
+}
+.fa-building-columns,
+.fa-envelope,
+.fa-facebook,
+.fa-instagram,
+.fa-id-badge,
+.fa-users-gear,
+.fa-file-signature,
+.fa-cloud
+{
+    color: #e2e2e2;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #FFD43B;
+}
+
+.fa-building-columns:hover,
+.fa-envelope:hover,
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-id-badge:hover,
+.fa-users-gear:hover,
+.fa-file-signature:hover,
+.fa-cloud:hover {
+    color: #FFD43B;
+}
